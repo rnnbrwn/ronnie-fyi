@@ -7,4 +7,4 @@ eleventyNavigation:
   order: 3
 ---
 
-I am a person that writes stuff.
+An out-of-practice web developer and a wannabe illustrator. Back with my own site for 2022, with grand plans for the future.
