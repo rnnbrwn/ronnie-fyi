@@ -1,7 +1,7 @@
 ---
 title: Slight Return
 description: In which the other starts blogging again
-date: 2022-01-01
+date: 2022-01-01 12:00:00.00
 tags:
   - personal
 layout: layouts/post.njk
@@ -18,6 +18,7 @@ I bought this domain a while back and it's been sitting in cold storage ever sin
 - [Mostly Consulting](https://mostly.consulting)
 - [Hay Facilities](https://www.hayfacilities.co.uk)
 - [Sam & Laura](https://samandlaura.wedding)
+- [Hotel Westminster](https://www.hotelwestminster.co.uk)
 
 On top of that, I've started drawing a bit more, too. All of which brings me back to this site. I'm not 100% sure what it'll contain, but I've got a lot of stuff I want to put online, and I don't want to be handing over content to Facebook, Insta, Twitter etc. I've finally come to the conclusion that it's better to host it myself. So here we are.
 

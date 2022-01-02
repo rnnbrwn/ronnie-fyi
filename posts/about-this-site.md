@@ -1,7 +1,7 @@
 ---
 title: About (this site)
 description: Some content about how this site was made, and where I got the code
-date: 2022-01-02
+date: 2022-01-01 21:00:00.00
 tags:
   - web development
   - personal
