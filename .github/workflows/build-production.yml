@@ -9,10 +9,9 @@ jobs:
   build:
     runs-on: ubuntu-latest
 
-    node:
-      version: latest
-
     steps:
+      - run: echo "node -v"
+
       - name: 🚚 Get Latest Code
         uses: actions/checkout@v2
 
