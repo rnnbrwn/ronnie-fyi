@@ -19,9 +19,9 @@ jobs:
       - name: 🧑🏻‍💻 Deploy to Dreamhost (Staging)
         uses: AbleLincoln/push-to-sftp@v1.0
         with:
-          host: sftp://staging.ronnie.fyi
+          host: staging.ronnie.fyi
           port: 22
-          username: ${{ secrets.ftp_username_staging }}
-          password: ${{ secrets.ftp_password_staging }}
+          username: dh_hdiqw9
+          password: D3Z9kYe4Ptb02VoYLTvrLWF1xMidASt
           sourceDir: ./_site/
           targetDir: ./staging.ronnie.fyi/
