@@ -12,6 +12,11 @@ jobs:
     steps:
       - name: 🚚 Get Latest Code
         uses: actions/checkout@v2
+      - uses: actions/setup-node@v2
+          with:
+            node-version: '14'
+      - run: npm install
+      - run: npm test
 
       - name: 1️⃣1️⃣ Eleventy Build
         uses: mfyz/actions-eleventy@master
