@@ -12,15 +12,13 @@ jobs:
     steps:
       - name: 🚚 Get Latest Code
         uses: actions/checkout@v2
-      - uses: actions/setup-node@v2
         with:
           node-version: "14"
-      - run: npm install
-      - run: npm test
-      - run: node -v
+          cache: "npm"
 
       - name: 1️⃣1️⃣ Eleventy Build
-        uses: TartanLlama/actions-eleventy@v1.1
+        # uses: mfyz/actions-eleventy@master
+      - run: npx 11ty/eleventy
 
       - name: 🧑🏻‍💻 Deploy to Dreamhost (Staging)
         uses: AbleLincoln/push-to-sftp@v1.0
