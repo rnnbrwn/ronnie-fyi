@@ -17,7 +17,7 @@ jobs:
           cache: "npm"
 
       - name: Install dependencies
-      - run: npm install
+        run: npm install
 
       - name: 1️⃣1️⃣ Eleventy Build
         run: npx @11ty/eleventy
