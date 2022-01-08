@@ -26,6 +26,7 @@ The goto Github Action for building Eleventy seems to be TartanLlama's [action-e
 And that's that.
 
 My `yaml` file runs whenever anything's pushed to the main branch of the repo, takes a copy of the latest code, builds it using `actions-eleventy`, and then copies it over to my web host. Decent.
+
 What I might do is setup a staging repo and sub-domain, in case I want to work on any major changes but, for now, that's good enough for a Saturday night.
 
 NB I appreciate that there's more to Continuous Integration than just this, calm doon.
@@ -39,3 +40,11 @@ On a Saturday night, a user called **Aankhen** took me through the issue I was h
 ### Change to the build process
 
 As a result of Aankhen's help, I'm no longer using the Action I mentioned above - and I never really needed to - so the process is even simpler now.
+
+## Resources
+
+- [My build-production.yml](https://github.com/rnnbrwn/project_ronnie.fyi/blob/main/.github/workflows/build-production.yml)
+- [Deploy to Shared Hosting Using Github Actions](https://www.youtube.com/watch?v=UNWIXYSZfZY)
+- [TartanLlama's repo](https://github.com/TartanLlama)
+- [mfyz's repo](https://github.com/mfyz)
+- [11ty Discord](https://discord.gg/GBkBy9u)
