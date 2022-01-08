@@ -20,3 +20,4 @@ jobs:
           server: staging.ronnie.fyi
           username: ${{ secrets.ftp_username_staging }}
           password: ${{ secrets.ftp_password_staging }}
+          server-dir: /staging.ronnie.fyi/
