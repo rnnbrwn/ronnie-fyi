@@ -29,4 +29,4 @@ My Yaml file runs whenever anything's pushed to the main branch of the repo, tak
 
 What I might do is setup a staging repo and sub-domain, in case I want to work on any major changes but, for now, that's good enough for a Saturday night.
 
-NB I appreciate that there's more to Continuous Integration than just this, calm doon.
+NB I appreciate that there's more to Continuous Integration than just this, calm doon..
