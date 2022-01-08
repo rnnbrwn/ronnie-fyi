@@ -19,10 +19,10 @@ jobs:
       - name: 🧑🏻‍💻 Deploy to Dreamhost (Staging)
         uses: AbleLincoln/push-to-sftp@v1.0
         with:
-          host: staging.ronnie.fyi
+          host: ronnie.fyi
           port: 22
           username: ${{ secrets.username }}
           password: ${{ secrets.password }}
           sourceDir: ./_site/
-          targetDir: ./staging.ronnie.fyi/
+          targetDir: ./ronnie.fyi/
           git-ftp-args: --insecure
