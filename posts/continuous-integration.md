@@ -21,7 +21,7 @@ I referenced a few resources when trying to come up with a solution.
 
 ## TartanLlama and mfyz
 
-The goto Github Action for building Eleventy seems to be TartanLlama's [action-eleventy](https://github.com/TartanLlama/actions-eleventy), however, I had some problems with its optional inputs, and ended up using a fork of this, by [https://github.com/mfyz/actions-eleventy](mfyz). I'll probably revisit this (as I will with the whole process) because there's no reason TartanLlama's shouldn't work.
+The goto Github Action for building Eleventy seems to be TartanLlama's [action-eleventy](https://github.com/TartanLlama/actions-eleventy), however, I had some problems with its optional inputs, and ended up using a fork of this, by [mfyz](https://github.com/mfyz/actions-eleventy). I'll probably revisit this (as I will with the whole process) because there's no reason TartanLlama's shouldn't work.
 
 And that's that.
 
