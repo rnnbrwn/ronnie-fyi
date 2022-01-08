@@ -21,7 +21,7 @@ jobs:
         with:
           host: staging.ronnie.fyi
           port: 22
-          username: dh_hdiqw9
-          password: D3Z9kYe4Ptb02VoYLTvrLWF1xMidASt
+          username: ${{ secrets.ftp_username_staging }}
+          password: ${{ secrets.ftp_password_staging }}
           sourceDir: ./_site/
           targetDir: ./staging.ronnie.fyi/
