@@ -21,8 +21,8 @@ jobs:
         with:
           host: staging.ronnie.fyi
           port: 22
-          username: ${{ secrets.FTP_USERNAME_STAGING }}
-          password: ${{ secrets.FTP_PASSWORD_STAGING }}
+          username: ${{ secrets.username }}
+          password: ${{ secrets.password }}
           sourceDir: ./_site/
           targetDir: ./staging.ronnie.fyi/
           git-ftp-args: --insecure
