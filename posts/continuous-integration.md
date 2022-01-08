@@ -25,8 +25,17 @@ The goto Github Action for building Eleventy seems to be TartanLlama's [action-e
 
 And that's that.
 
-My Yaml file runs whenever anything's pushed to the main branch of the repo, takes a copy of the latest code, builds it using `actions-eleventy` and then copies it over to my web host. Decent.
-
+My `yaml` file runs whenever anything's pushed to the main branch of the repo, takes a copy of the latest code, builds it using `actions-eleventy`, and then copies it over to my web host. Decent.
 What I might do is setup a staging repo and sub-domain, in case I want to work on any major changes but, for now, that's good enough for a Saturday night.
 
 NB I appreciate that there's more to Continuous Integration than just this, calm doon.
+
+## Update
+
+Immediately after I posted this, the build/deployment process stopped working. For about an hour I tried a few different things, and then I headed over to the 11ty Discord channel.
+
+On a Saturday night, a user called **Aankhen** took me through the issue I was having, jumped into my repo and flagged any `yaml` syntax issues (there were a few!) and basically held my hand as I fixed the problem. What a hero. Here's to you, Aankhen! 🍺
+
+### Change to the build process
+
+As a result of Aankhen's help, I'm no longer using the Action I mentioned above - and I never really needed to - so the process is even simpler now.

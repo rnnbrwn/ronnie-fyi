@@ -1,4 +1,4 @@
-name: Build Eleventy and deploy to Dreamhost (Staging)
+name: Build Eleventy and deploy to web host
 
 on:
   push:
