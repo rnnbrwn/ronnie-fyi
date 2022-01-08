@@ -10,10 +10,18 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - run: echo "node -v"
+      
+      strategy:
+        matrix:
+          node-version: [12.x]
 
       - name: 🚚 Get Latest Code
         uses: actions/checkout@v2
+
+      - name: Use Node.js ${{ matrix.node-version }}
+        uses: actions/setup-node@v1
+        with:
+          node-version: ${{ matrix.node-version }}
 
       - name: 1️⃣1️⃣ Eleventy Build
         uses: mfyz/actions-eleventy@master
