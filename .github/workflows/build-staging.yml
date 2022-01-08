@@ -12,7 +12,7 @@ jobs:
     steps:
       - name: Build Eleventy
       - uses: actions/checkout@v2
-        uses: mfyz/actions-eleventy@master
+        # uses: mfyz/actions-eleventy@master
 
       - name: Deploy to Dreamhost (Staging)
         uses: SamKirkland/FTP-Deploy-Action@4.2.0
