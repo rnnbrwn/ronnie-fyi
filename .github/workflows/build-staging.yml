@@ -25,4 +25,4 @@ jobs:
           password: ${{ secrets.password }}
           sourceDir: ./_site/
           targetDir: ./ronnie.fyi/
-          git-ftp-args: --insecure
+          # git-ftp-args: --insecure
