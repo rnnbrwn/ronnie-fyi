@@ -12,7 +12,4 @@ jobs:
     steps:
       - uses: actions/checkout@v2
       - name: Build Eleventy
-        uses: TartanLlama/actions-eleventy@v1.1
-        with:
-          args: --output _site
-          install_dependencies: true
+        uses: mfyz/actions-eleventy@master
