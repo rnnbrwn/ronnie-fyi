@@ -27,6 +27,6 @@ And that's that.
 
 My Yaml file runs whenever anything's pushed to the main branch of the repo, takes a copy of the latest code, builds it using `actions-eleventy` and then copies it over to my web host. Decent.
 
-What I might do is setup a staging repo and sub-domain, incase I want to work on any major changes but, for now, that's good enough for a Saturday night.
+What I might do is setup a staging repo and sub-domain, in case I want to work on any major changes but, for now, that's good enough for a Saturday night.
 
 NB I appreciate that there's more to Continuous Integration than just this, calm doon.
