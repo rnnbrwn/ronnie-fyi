@@ -28,5 +28,3 @@ Two things about that:
 So, here we are. It's been tough year, doing a job that I was once pretty good at, but for which I'm now very rusty. But I've enjoyed building, creating, and being a different member of the team. I've still got lots to learn, though, especially since the team's tech stack is changing (and in some ways has already changed) to a more modern, React-based stack.
 
 The learning curve is steep, but at least I'm walking uphill.
-
-Edit: new build file8
