@@ -18,6 +18,7 @@ jobs:
 
       - name: 🧑🏻‍💻 Deploy to Dreamhost (Staging)
         uses: AbleLincoln/push-to-sftp@v1.0
+        run: echo "Deploying to Dreamhost with username ${{ secrets.FTP_USERNAME_STAGING }}"
         with:
           host: staging.ronnie.fyi
           port: 22
