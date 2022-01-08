@@ -18,14 +18,15 @@ In 2015, I took a role at [Hilton](https://www.hilton.com) (after a depressing y
 
 ## COVID-19
 
-In March 2019, I was furloughed from work for an initial period of 3 months (later extended to 6). Between March and September, although I was still employed, I did find myself with some more spare time. So, I focused on regaining some practical, development skills. I built a few sites and made an effort to ensure that when (or if) I returned to Hilton, I did so prepped for what I assumed would be a slightly different work environment. 
+In March 2019, I was furloughed from work for an initial period of 3 months (later extended to 6). Between March and September, although I was still employed, I did find myself with some more spare time. So, I focused on regaining some practical, development skills. I built a few sites and made an effort to ensure that when (or if) I returned to Hilton, I did so prepped for what I assumed would be a slightly different work environment.
 
-Two things about that: 
+Two things about that:
 
 1. I wish I'd done more reskilling
 2. I was fortunate enough to return, and my job has since required me to be more operational, i.e. actually building websites. Here's one I built after my return: [Hotel Westminster](https://www.hotelwestminster.co.uk)
 
-So, here we are. It's been tough year, doing a job that I was once pretty good at, but for which I'm now very rusty. But I've enjoyed building, creating, and being a different member of the team. I've still got lots to learn, though, especially since the team's tech stack is changing (and in some ways has already changed) to a more modern, React-based stack. 
+So, here we are. It's been tough year, doing a job that I was once pretty good at, but for which I'm now very rusty. But I've enjoyed building, creating, and being a different member of the team. I've still got lots to learn, though, especially since the team's tech stack is changing (and in some ways has already changed) to a more modern, React-based stack.
 
 The learning curve is steep, but at least I'm walking uphill.
 
+Edit: test
