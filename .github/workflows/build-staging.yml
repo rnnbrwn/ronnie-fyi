@@ -25,3 +25,4 @@ jobs:
           password: ${{ secrets.FTP_PASSWORD_STAGING }}
           sourceDir: ./_site/
           targetDir: ./staging.ronnie.fyi/
+          git-ftp-args: --insecure
