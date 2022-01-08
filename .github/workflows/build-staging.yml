@@ -10,6 +10,13 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - uses: actions/checkout@v2
       - name: Build Eleventy
+      - uses: actions/checkout@v2
         uses: mfyz/actions-eleventy@master
+
+      - name: Deploy to Dreamhost (Staging)
+        uses: SamKirkland/FTP-Deploy-Action@4.0.0
+        with:
+          server: staging.ronnie.fyi
+          username: ${{ secrets.ftp_username_staging }}
+          password: ${{ secrets.ftp_password_staging }}
