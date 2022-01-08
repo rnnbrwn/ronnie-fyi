@@ -1,4 +1,3 @@
-image: node:lts
 name: Build Eleventy and deploy to Dreamhost (Staging)
 
 on:
