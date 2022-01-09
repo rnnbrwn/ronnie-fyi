@@ -19,9 +19,9 @@ Or, _speak more Gaelic_.
 
 Living in Glasgow, I'm fortunate enough to be able to send my daughter to a bilingual school. [Like many others in Scotland](https://education.gov.scot/parentzone/my-school/choosing-a-school/gaelic-medium-education/gaelic-medium-education-foghlam-tro-mheadhan-na-gaidhlig/), she's being taught in Scots Gaelic, and learning English as a foreign language (although English is our first language in the home). Neither my wife Claire nor I are native Gaelic speakers, so the more I learn, the more integrated within the school community I can be, and the more I can understand my daughter's homework.
 
-Right now, I'm on a 90-day learning streak on [Gaelic Duolingo](https://www.duolingo.com/enroll/gd/en/Learn-Scottish-Gaelic). Previously, I'd attended some local classes, but Covid put an end to that, so it's Duolingo for now.
+Right now, I'm on a ~~90-day~~ 94-day learning streak on [Gaelic Duolingo](https://www.duolingo.com/enroll/gd/en/Learn-Scottish-Gaelic). Previously, I'd attended some local classes, but Covid put an end to that, so it's Duolingo for now.
 
-**My aim is to achieve a 200-day streak this year**, and to reevaluate if I do so. The 200-day mark is 29 April 2022, so let's check-in then and see how I'm doing. If I fail, there are enough days in the year to re-attempt, at the very least.
+**My aim is to achieve a 200-day streak this year**, and to reevaluate if I do so. The 200-day mark is ~~29 April~~ 3 May 2022, so let's check-in then and see how I'm doing. If I fail, there are enough days in the year to re-attempt, at the very least.
 
 ## Build more web-sites (and learn more technologies)
 
