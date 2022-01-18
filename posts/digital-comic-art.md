@@ -12,7 +12,7 @@ Late last year, I found an art class I was interested in attending, being held a
 
 Unfortunately, due to Covid, the class was moved from in-person to online, meaning a weekly Zoom call with Russell and my fellow students. Tonight was the first class, an introduction to the following six weeks. During the three hours, we discussed drawing lines, mass, and form; we were encouraged to spend time learning the human figure, to study comics, and to draw from life; and we spent some time drawing thumbnail sketches of some comic book panels we had to hand.
 
-I have a few sketches from the evening, but two of my favourites are these thumbnail sketches, both of which were done within a couple of minutes, and were inspired by (1) IDP: 2043; and (2) Superman: Red Son.
+I have a few sketches from the evening, but two of my favourites are these thumbnail sketches, both of which were done within a couple of minutes, and were inspired by (1) IDP: 2043; and (2) [Superman: Red Son](https://en.wikipedia.org/wiki/Superman:_Red_Son).
 
 ![An image showing a panel from a comic book, and my attempt to replicate it](/img/idp-2043-thumbnail.jpg "IDP: 2043, original artwork by Dan McDaid")
 
