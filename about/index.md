@@ -12,3 +12,7 @@ An out-of-practice web developer and a wannabe illustrator. Back with my own sit
 Senior Manager Digital Technology for Hilton, based in Glasgow.
 
 All views my own.
+
+- [Twitter](https://www.twitter.com/rnnbrwn)
+- [Instagram](https://www.instagram.com/rnnbrwn)
+- [Last.fm](https://www.last.fm/user/rnnbrwn)
