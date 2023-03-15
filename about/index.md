@@ -13,6 +13,6 @@ Senior Manager Digital Technology for Hilton, based in Glasgow.
 
 All views my own.
 
-- [Twitter](https://www.twitter.com/rnnbrwn)
+- [Mastodon](https://indieweb.social/@rnnbrwn)
 - [Instagram](https://www.instagram.com/rnnbrwn)
 - [Last.fm](https://www.last.fm/user/rnnbrwn)
