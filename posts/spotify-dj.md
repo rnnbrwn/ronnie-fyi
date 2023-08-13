@@ -7,4 +7,6 @@ tags:
 layout: layouts/post.njk
 ---
 
+Spotify's new AI DJ is awful.
+
 That is all.
