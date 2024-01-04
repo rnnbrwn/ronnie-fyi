@@ -1,7 +1,7 @@
 ---
 title: My Annual "Do Better" Post
 description: Rip it up and start again?
-date: 2023-01-04 12:00:00.00
+date: 2024-01-04 12:00:00.00
 tags:
   - personal
 layout: layouts/post.njk
