@@ -20,7 +20,7 @@ jobs:
         run: npx @11ty/eleventy
 
       - name: 🧑🏻‍💻 Deploy
-        uses: AbleLincoln/push-to-sftp@v1.0
+        uses: AbleLincoln/push-to-sftp@v2.1
         with:
           host: ronnie.fyi
           port: 22
