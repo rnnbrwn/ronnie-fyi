@@ -11,6 +11,6 @@ Senior Manager Digital Technology for Hilton, based in Glasgow.
 
 All views my own.
 
-- [Bluesky](https://bsky.app/profile/rnnbrwn.bsky.social)
+- [Bluesky](https://bsky.app/profile/ronnie.fyi)
 - [Instagram](https://www.instagram.com/rnnbrwn)
 - [Last.fm](https://www.last.fm/user/rnnbrwn)
