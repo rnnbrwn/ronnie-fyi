@@ -13,7 +13,6 @@ jobs:
       - name: 🚚 Get Latest Code
         uses: actions/checkout@v4
         with:
-          node-version: "14"
           cache: "npm"
 
       - name: 📨 Install dependencies
