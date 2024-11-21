@@ -11,7 +11,7 @@ jobs:
 
     steps:
       - name: 🚚 Get Latest Code
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
         with:
           node-version: "14"
           cache: "npm"
