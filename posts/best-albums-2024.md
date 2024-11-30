@@ -18,6 +18,7 @@ First one I noticed is [Memorial Device's list of the top 20 best albums of 2024
 
 ## Best Albums of 2024
 
+- [Independent, The best albums of 2024, ranked](https://www.independent.co.uk/arts-entertainment/music/features/best-albums-2024-taylor-swift-fontaines-dc-b2653867.html) **added 2024-11-30**
 - [Memorial Device's list of the top 20 best albums of 2024. In Order](https://bsky.app/profile/memorialdevice.bsky.social/post/3lbyquioyc22p)
 - [Album of the Year, The Highest Rated Albums of 2024](https://www.albumoftheyear.org/ratings/6-highest-rated/2024/1)
 - [TimeOut, The best albums of 2024](https://www.timeout.com/music/the-best-albums-of-2024)
